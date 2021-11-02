@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "ema-john-simple-e9bd8",
+    "build": "ema-john-simple-683b6",
+    "staging": "ema-john-simple-683b6"
+  },
+  "targets": {}
+}
